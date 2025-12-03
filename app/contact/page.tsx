@@ -1,7 +1,7 @@
 "use client"
 
 import { Navbar } from "@/components/navbar"
-import { Footer } from "@/components/footer"
+import Footer from "@/components/footer"
 import { SectionHeading } from "@/components/section-heading"
 import { ContactForm } from "@/components/contact-form"
 import { Phone, Mail, MapPin, Clock, MessageCircle, CheckCircle, Headphones, Truck } from "lucide-react"
