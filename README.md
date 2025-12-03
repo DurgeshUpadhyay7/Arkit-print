@@ -1,30 +1,43 @@
-# Printing company website
+# Arkit Print Solution – Professional Printing Services Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A modern, responsive, high-performance website built for **Arkit Print Solution**, a premium printing service provider based in Mumbai, India.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/durgeshup727598-4269s-projects/v0-printing-company-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/njDMXBjLc48)
+This project is designed using **Next.js 14**, **TypeScript**, and **Tailwind CSS**, with a clean UI, fast performance, smooth animations, and SEO-optimized structure.
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🚀 Live Features
 
-## Deployment
+- Fully responsive design (Mobile, Tablet & Desktop)
+- Modern hero sections with gradient and image overlays
+- Dedicated pages:
+  - Home
+  - About Us
+  - Services
+  - Portfolio
+  - Gallery
+  - Contact
+- WhatsApp Quick Chat integration
+- Clean Navigation Bar & Footer
+- Reusable UI components
+- Optimized for SEO & performance
+- Fast page loads using React Server Components
+- Image optimization using `next/image`
 
-Your project is live at:
+---
 
-**[https://vercel.com/durgeshup727598-4269s-projects/v0-printing-company-website](https://vercel.com/durgeshup727598-4269s-projects/v0-printing-company-website)**
+## 🛠️ Tech Stack
 
-## Build your app
+| Technology | Description |
+|------------|-------------|
+| **Next.js 14** | App Router, Server Components |
+| **TypeScript** | Strong typing & scalability |
+| **Tailwind CSS** | Fast, responsive UI styling |
+| **Lucide Icons** | Clean SVG React icons |
+| **Framer Motion** | Subtle UI animations |
+| **Vercel** | Deployment & hosting |
 
-Continue building your app on:
+---
 
-**[https://v0.app/chat/njDMXBjLc48](https://v0.app/chat/njDMXBjLc48)**
+## 📁 Project Structure
 
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
